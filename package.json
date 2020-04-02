@@ -1,0 +1,16 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d task"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://mohamedmamdouh-mm.github.io/web design things",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
